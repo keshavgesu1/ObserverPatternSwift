@@ -1,0 +1,6 @@
+framework module Pods_ObserverPatternSwift {
+  umbrella header "Pods-ObserverPatternSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
